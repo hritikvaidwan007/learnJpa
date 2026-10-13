@@ -1,0 +1,41 @@
+.gitattributes
+  s_b3b90f654d6fc0::t_18432ad651b558 1-2
+.gitignore
+  s_b3b90f654d6fc0::t_f3017cf200dbc3 1-33
+.mvn/wrapper/maven-wrapper.properties
+  s_b3b90f654d6fc0::t_ae713119ddc03b 1-3
+mvnw
+  s_b3b90f654d6fc0::t_7d31b3f97cc555 1-295
+mvnw.cmd
+  s_b3b90f654d6fc0::t_c81f6386b93e92 1-189
+pom.xml
+  s_b3b90f654d6fc0::t_564198cd55513a 1-109
+src/main/java/com/hritik/jpa/learnJpa/LearnJpaApplication.java
+  s_b3b90f654d6fc0::t_6f7164cc84642f 1-13
+src/main/java/com/hritik/jpa/learnJpa/entities/ProductEntity.java
+  s_b3b90f654d6fc0::t_3013f404ee69a9 1-50
+src/main/java/com/hritik/jpa/learnJpa/repositories/ProductRepository.java
+  s_b3b90f654d6fc0::t_855fdf047a99e0 1-10
+src/main/resources/application.properties
+  s_b3b90f654d6fc0::t_8cdbf7d5a24bed 1-14
+src/main/resources/test_data.sql
+  s_b3b90f654d6fc0::t_d957de4f83afef 1-26
+src/test/java/com/hritik/jpa/learnJpa/LearnJpaApplicationTests.java
+  s_b3b90f654d6fc0::t_7fe6a5cbf8293b 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9d1c38ce287658724e77a9b90dd226e545a74957",
+  "prompts": {},
+  "sessions": {
+    "s_b3b90f654d6fc0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6dfb1c3d-f6fb-474d-9a13-1f213d8aa055",
+        "model": "unknown"
+      },
+      "human_author": "hritik.vaidwan <hritik.vaidwan@telekom-digital.com>"
+    }
+  }
+}
